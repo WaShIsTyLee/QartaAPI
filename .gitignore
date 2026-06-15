@@ -6,7 +6,8 @@
 # Build folders
 bin/
 obj/
-appsettings
+appsettings.json
+
 
 # Rider
 .idea/
