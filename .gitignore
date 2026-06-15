@@ -1,0 +1,27 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build folders
+bin/
+obj/
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# NuGet packages (si existen localmente)
+packages/
+
+# Publish output
+publish/
+
+# User-specific settings
+*.userosscache
+*.sln.docstates
